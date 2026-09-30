@@ -12,6 +12,7 @@ Documento informativo y de petición elaborado por estudiantes de la UVM, campus
 - Ahora se nos exige testimonio **Sobresaliente** para titularnos por EGEL, con base en el artículo 44 del Reglamento de Titulación (Anexo L).
 - Ese requisito aparece por primera vez en la versión de **julio de 2025** del reglamento. No existía en 2022, como se nos dijo.
 - El cambio se publicó solo en la página web de la universidad, sin aviso directo. Ni siquiera el personal directivo y docente tenía claridad sobre él.
+- El programa de la asignatura terminal de agosto de 2026 (Taller de Fortalecimiento al Egreso II) sigue asignando al EGEL 4.0 de 10 puntos y habla de "resultados satisfactorios", sin mencionar el requisito de Sobresaliente.
 
 El documento incluye la evidencia, las disposiciones citadas con enlace a la página exacta del PDF oficial, una propuesta de acción y un modelo de solicitud colectiva con área de firmas.
 

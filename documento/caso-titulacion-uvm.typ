@@ -111,6 +111,7 @@
   + *Lo que ahora se nos exige:* para titularnos por EGEL, testimonio *Sobresaliente* (1150 puntos o más). El Satisfactorio "ya no aplica".
   + *Cuándo cambió:* el requisito aparece por primera vez en la versión de *julio de 2025* del Reglamento de Titulación (Anexo L, artículo 44), no "desde 2022" como se nos dijo.
   + *Cómo se comunicó:* solo en la página web, sin aviso directo, y a unas semanas del examen. Ni siquiera el personal directivo y docente tenía claridad sobre el cambio.
+  + *Qué dice el curso actual:* el programa de la asignatura terminal de agosto de 2026 sigue asignando al EGEL 4.0 de 10 puntos y habla de "resultados satisfactorios", sin mencionar el Sobresaliente.
 ]
 
 Este documento reúne la evidencia de ese cambio, explica por qué consideramos que afecta a quienes cursamos licenciaturas L6 e ingresamos antes de julio de 2025, y propone qué hacer. Nuestra inquietud no es que existan requisitos, sino que *el requisito del EGEL se elevó de Satisfactorio a Sobresaliente a la mitad de nuestra carrera, sin una notificación clara y sin un régimen de transición.*
@@ -188,6 +189,38 @@ Si la asignatura se aprueba con 7.0, lo necesario en los parciales formativos de
 )
 
 Es decir, *con testimonio Satisfactorio y un promedio de 6.7 o más en los parciales se acreditaba la asignatura terminal*, y con 10 en los parciales bastaba incluso con 900 puntos. No era necesario el Sobresaliente.
+
+== El programa de la asignatura terminal de este semestre
+
+El Documento de Información General del curso "Curso de Apoyo TFE II LREI", publicado en Blackboard para el periodo actual (el archivo fue generado el 5 de agosto de 2026, según sus metadatos), sigue describiendo el mismo esquema:
+
+- En la tabla de organización de la asignatura, el *EGEL Plus vale 4.0 de una calificación total de 10*, es decir, el 40%.
+- Declara que la asignatura busca "incrementar las posibilidades de *obtener resultados satisfactorios* al momento de presentar el examen oficial".
+- *No menciona en ningún lugar que se requiera testimonio Sobresaliente* para acreditar la asignatura ni para titularse.
+
+Es decir, más de un año después de que apareció el requisito de Sobresaliente en el reglamento, el documento oficial del curso que nos prepara para el EGEL no lo informa.
+
+#figure(
+  image("img/c-dig-tfe2-ponderacion.png", width: 88%),
+  caption: [Documento de Información General, Curso de Apoyo TFE II LREI (agosto de 2026), página 8, "Organización de la asignatura". En rojo: el EGEL Plus vale 4.0 de un total de 10. Extracto citado como evidencia; el documento es propiedad de la UVM.],
+)
+
+#figure(
+  image("img/c-dig-tfe2-satisfactorios.png", width: 80%),
+  caption: [Mismo documento, página 3. En rojo: el objetivo declarado de la asignatura es obtener resultados satisfactorios en el examen.],
+)
+
+El documento se consultó directamente en la plataforma Blackboard de la UVM el 29 de septiembre de 2026, como se ve en las siguientes capturas de pantalla completa, que incluyen el navegador, la dirección de la plataforma y la fecha y hora del sistema:
+
+#figure(
+  image("img/c-bb-pantalla-pag8.png", width: 100%),
+  caption: [Captura de pantalla del Documento de Información General abierto en Blackboard (curso "Curso de Apoyo TFE II LREI"), página 8, el 29 de septiembre de 2026 a las 21:23 h. En rojo: la dirección de la plataforma, la fecha y hora del sistema, y la ponderación del EGEL Plus (4.0 de 10).],
+)
+
+#figure(
+  image("img/c-bb-pantalla-pag3.png", width: 100%),
+  caption: [Mismo documento en Blackboard, página 3, el 29 de septiembre de 2026 a las 21:24 h. En rojo: la dirección de la plataforma, la fecha y hora, y la frase "obtener resultados satisfactorios al momento de presentar el examen oficial".],
+)
 
 = El cambio: ahora se exige Sobresaliente
 
@@ -273,6 +306,7 @@ Si quienes laboran en la universidad, incluidos profesores y directivos, descono
 + *No hubo régimen de transición.* El reglamento no prevé ninguna regla para las generaciones que ya estaban inscritas cuando cambió el requisito.
 + *No hubo tiempo suficiente.* Enterarnos a unas semanas del examen nos deja sin margen para prepararnos para un Sobresaliente o planear otra opción de titulación.
 + *El reglamento es contradictorio.* El Anexo H sigue dando valor al Satisfactorio mientras el artículo 44 lo deja sin efecto para titularse.
++ *Los documentos del propio curso no lo mencionan.* El programa de la asignatura terminal de este semestre sigue presentando el esquema de 4.0 de 10 puntos y el objetivo de resultados satisfactorios.
 
 = Consideraciones que conviene conocer
 
@@ -312,6 +346,7 @@ Las y los estudiantes abajo firmantes, inscritos en licenciaturas en modalidad L
 
 + Durante nuestra formación se nos informó que el resultado del EGEL forma parte de la calificación de la asignatura terminal conforme a la tabla del artículo 11 de la Política de Operación y Evaluación del EGEL (Anexo H), en la que el testimonio Satisfactorio es suficiente para acreditarla, en combinación con las demás evaluaciones.
 + Recientemente se nos informó que para titularnos por EGEL se requiere testimonio Sobresaliente, con base en el artículo 44 del Reglamento de Titulación (Anexo L), fracción I, que aparece por primera vez en la versión de julio de 2025 y que no existía cuando ingresamos.
++ El Documento de Información General del Curso de Apoyo TFE II (agosto de 2026) asigna al EGEL Plus 4.0 de 10 puntos de la calificación, señala como objetivo obtener resultados satisfactorios en el examen y no menciona ningún requisito de testimonio Sobresaliente.
 + No recibimos notificación directa de este cambio por correo institucional, por la aplicación myUVM ni por Blackboard, y nos enteramos a unas semanas de la aplicación del EGEL, programada para el 27 de noviembre de 2026.
 + En la reunión del 29 de septiembre de 2026 se nos indicó que el requisito aplicaba desde 2022 y que debimos conocerlo desde nuestra inscripción. Sin embargo, el reglamento vigente en esa fecha no lo contemplaba, y el propio personal presente no tuvo claridad sobre cuándo se estableció.
 
